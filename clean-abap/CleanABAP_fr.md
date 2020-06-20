@@ -161,7 +161,7 @@ L'[antisèche](cheat-sheet/CheatSheet.md) est une version optimisée pour l'impr
    - [Utilisez les méthodes plutôt que les commentaires pour segmenter votre code](#utilisez-les-méthodes-plutôt-que-les-commentaires-pour-segmenter-votre-code)
    - [Écrivez des commentaires pour répondre à la question "pourquoi ?", et non à la question "quoi ?"](#écrivez-des-commentaires-pour-répondre-à-la-question-pourquoi--et-non-à-la-question-quoi-)
    - [La conception doit être traitée dans les documents de conception, et non dans le code](#la-conception-doit-être-traitée-dans-les-documents-de-conception-et-non-dans-le-code)
-   - [Commentez avec ", et non avec *](#commentez--avec-et-non-avec-)
+   - [Commentez avec \", et non avec *](#commentez-avec--et-non-avec)
    - [Mettez des commentaires avant l'instruction à laquelle ils font référence](#mettez-des-commentaires-avant-linstruction-à-laquelle-ils-font-référence)
    - [Supprimez le code au lieu de le commenter](#supprimez-le-code-au-lieu-de-le-commenter)
    - [Utilisez FIXME, TODO et XXX, et ajoutez votre ID](#utilisez-fixme-todo-et-xxx-et-ajoutez-votre-id)
@@ -3036,7 +3036,7 @@ Personne ne lit ça, sérieusement. Si les collaborateurs ont besoin d'un manuel
 
 ### Commentez avec ", et non avec *
 
-> [Coder proprement avec ABAP](#coder-proprement-avec-abap) > [Table des matières](#table-des-matières) > [Commentaires](#commentaires) > [Cette section](#commentez-avec--et-non-avec-)
+> [Coder proprement avec ABAP](#coder-proprement-avec-abap) > [Table des matières](#table-des-matières) > [Commentaires](#commentaires) > [Cette section](#commentez-avec-et-non-avec)
 
 Les commentaires avec guillemets se mettent en retrait en alignement avec les instructions qu'ils commentent
 
